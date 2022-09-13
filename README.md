@@ -1,1 +1,1 @@
-abc
+Curent_working_directory
